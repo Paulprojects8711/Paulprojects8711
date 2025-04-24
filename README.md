@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paulprojects8711
 - 👀 I’m interested in coding stuff that comes into my mind
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: you cant
 
 <!---
