@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paulprojects8711
 - 👀 I’m interested in coding stuff that comes into my mind
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: you cant
 - Fueled by lack of sleep
 
