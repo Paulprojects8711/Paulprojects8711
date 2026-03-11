@@ -1,5 +1,5 @@
 - Hi, I’m @Paulprojects8711
-- I’m interested in... no idea
+- I’m interested in matrix stuff
 - I’m currently learning C++ and Rust
 - How to reach me: look on my website
 - Fueled by lack of sleep
